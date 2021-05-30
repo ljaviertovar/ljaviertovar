@@ -1,9 +1,9 @@
 ![banner](https://user-images.githubusercontent.com/34925280/120120620-02a21880-c164-11eb-9c18-2d3e7f0f98a4.jpg)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ljaviertovar/)](https://www.linkedin.com/in/hemanthkollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisjavier.tovarp@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-d14836?style=flat-square&logo=Pinterest&logoColor=white&link=https://www.pinterest.com.mx/Taviz55/_saved/)](mailto:defcon.sentinal95@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ljaviertovar/)](https://www.linkedin.com/in/ljaviertovar/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisjavier.tovarp@gmail.com)](mailto:luisjavier.tovarp@gmail.com)
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-d14836?style=flat-square&logo=Pinterest&logoColor=white&link=https://www.pinterest.com.mx/Taviz55/_saved/)](https://www.pinterest.com.mx/Taviz55/_saved/)
 ![profile count](https://komarev.com/ghpvc/?username=ljaviertovar&color=red)
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/ljaviertovar?label=follow&style=social)](https://github.com/ljaviertovar)
+[![GitHub ljaviertovar](https://img.shields.io/github/followers/ljaviertovar?label=follow&style=social)](https://github.com/ljaviertovar)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/> Hello world! 
 <hr>
