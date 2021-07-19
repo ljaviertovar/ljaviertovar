@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-010409?style=flat-square&logo=javascript)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-010409?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-010409?style=flat-square&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-React-010409?style=flat-square&logo=react)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-010409?style=flat-square&logo=react)&nbsp;
 ![PupeteerJs](https://img.shields.io/badge/-PuppeteerJS-010409?style=flat-square&logo=puppeteer&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-010409?style=flat-square&logo=PHP)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-010409?style=flat-square&logo=HTML5)&nbsp;
