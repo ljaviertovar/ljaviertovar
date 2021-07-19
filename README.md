@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/34925280/120120620-02a21880-c164-11eb-9c18-2d3e7f0f98a4.jpg)
+![banner](https://user-images.githubusercontent.com/34925280/126106882-f865329a-bd8e-4b04-acbc-15e92c25e948.jpg)
 ### :alien: Where to find me
 <p>
     <a href="https://ljaviertovar.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://ljaviertovar.medium.com/" /></a>
