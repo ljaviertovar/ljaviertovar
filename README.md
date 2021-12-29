@@ -10,7 +10,7 @@
 
 - :rocket: I'm a software developer (Front-end - 60% | Back-end 40%)
 - 🏢 I'm currently working at **Corebiz** as a Front-end developer
-- 🌱 I’m currently learning **Nextjs Vtex IO**
+- 🌱 I’m currently learning **Nextjs VtexIO**
 - 📙 Check out my [Resume](https://drive.google.com/file/d/13lHl9_hPD8gn8v4CTESU07y8mKKLbu_Q/view?usp=sharing)
 - ⚡️ Fun fact: I'm a huge fan of Isaac Asimov and I ❤️ Sci-Fi.
 
