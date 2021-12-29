@@ -4,14 +4,13 @@
     <a href="https://ljaviertovar.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://ljaviertovar.medium.com/" /></a>
   <a href="https://www.linkedin.com/in/ljaviertovar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ljaviertovar/" /></a>
 <a href="mailto:luisjavier.tovarp@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luisjavier.tovarp@gmail.com)" /></a> 
-  <a href="https://www.pinterest.com.mx/Taviz55/_saved/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/-Pinterest-B7081B?style=for-the-badge&logo=Pinterest&logoColor=white&link=https://www.pinterest.com.mx/Taviz55/_saved/)" /></a> 
 </p>
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/> Hello world! 
 
 - :rocket: I'm a software developer (Front-end - 60% | Back-end 40%)
 - 🏢 I'm currently working at **Corebiz** as a Front-end developer
-- 🌱 I’m currently learning **Vtex IO, GraphQL, Sass**
+- 🌱 I’m currently learning **Nextjs Vtex IO**
 - 📙 Check out my [Resume](https://drive.google.com/file/d/13lHl9_hPD8gn8v4CTESU07y8mKKLbu_Q/view?usp=sharing)
 - ⚡️ Fun fact: I'm a huge fan of Isaac Asimov and I ❤️ Sci-Fi.
 
@@ -32,13 +31,13 @@
 ### :new_moon_with_face: My latest posts
 <ul>
   <li>
-    <a href="https://medium.com/geekculture/what-you-need-to-know-to-develop-your-first-web-scraper-7522e6f12b2a">
-      <b>What you need to know to develop your first web scraper</b>
+    <a href="https://betterprogramming.pub/creating-instagram-filters-using-react-js-and-css-a9a466ef60a3">
+      <b>Creating Instagram Filters Using React Js and CSS</b>
     </a>
   </li>
   <li>
-    <a href="https://medium.com/geekculture/what-is-web-scraping-and-how-is-it-used-ebb0ea77ef9c">
-      <b>What is Web Scraping and how is it used?</b>
+    <a href="https://medium.com/geekculture/what-you-need-to-know-to-develop-your-first-web-scraper-7522e6f12b2a">
+      <b>What you need to know to develop your first web scraper</b>
     </a>
   </li>
  </ul> 
