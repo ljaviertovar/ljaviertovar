@@ -55,7 +55,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ljaviertovar" height="30" width="40" /></a>
 <a href="https://medium.com/@ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ljaviertovar" height="30" width="40" /></a>
-<a href="https://hackernoon.com/u/ljaviertovar" target="blank"><img align="center" src="https://github.com/ljaviertovar/ljaviertovar/assets/34925280/064432c7-7a4a-4a3e-a0be-784569dd44aa" alt="@ljaviertovar" height="30" width="40" /></a>
+<a href="https://hackernoon.com/u/ljaviertovar" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/34925280/242477326-064432c7-7a4a-4a3e-a0be-784569dd44aa.jpeg" alt="@ljaviertovar" height="30" width="40" /></a>
 <a href="https://dev.to/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ljaviertovar" height="30" width="40" /></a>
 <a href="https://twitter.com/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ljaviertovar" height="30" width="40" /></a>
 
