@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ![Nextjs](https://img.shields.io/badge/-Nextjs-010409?style=flat-square&logo=Next.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-010409?style=flat-square&logo=react)&nbsp;
@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ljaviertovar" height="30" width="40" /></a>
 <a href="https://medium.com/@ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ljaviertovar" height="30" width="40" /></a>
@@ -71,7 +71,7 @@
 
 <br>
 
-<h2 align="left">Stats:</h2>
+<h2 align="left">Stats</h2>
 
 <p>
     <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljaviertovar&show_icons=true&locale=en&layout=compact" alt="ljaviertovar" /></span>
