@@ -1,7 +1,8 @@
-![banner](https://user-images.githubusercontent.com/34925280/126106882-f865329a-bd8e-4b04-acbc-15e92c25e948.jpg)
-<h1 align="center">Hello world <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>, I'm L Javier Tovar</h1>
-<h3 align="center">Front-end Engineer</h3>
-<h4 align="center">With a passion for creating user-friendly interfaces</h4>
+<h1 align="center">Hello world <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>, I am</h1>
+
+![IMG_20230601_164349_537~2-1](https://github.com/ljaviertovar/ljaviertovar/assets/34925280/b32a7046-11f6-4be5-8019-cd13bf47b5f7)
+
+<h4 align="center">✨ With a passion for creating user-friendly interfaces</h4>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ljaviertovar&label=Profile%20views&color=0e75b6&style=flat" alt="ljaviertovar" /> </p>
 
