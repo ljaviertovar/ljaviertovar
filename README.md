@@ -65,7 +65,7 @@
 
 <br>
 
-## Latest Blog posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Shopping Cart with Next.js and Zustand: State Management with TypeScript](https://javascript.plainenglish.io/building-a-shopping-cart-with-zustand-a-practical-guide-to-react-state-management-with-typescript-73ec10c66fb7?source=rss-ecb38392f3e8------2)
 - [How to set up a GraphQL Server and Client in Next.js step-by-step guide](https://javascript.plainenglish.io/how-to-set-up-a-graphql-server-and-client-in-next-js-step-by-step-guide-98a18088d7c6?source=rss-ecb38392f3e8------2)
