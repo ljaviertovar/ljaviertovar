@@ -10,15 +10,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljaviertovar" alt="ljaviertovar" /></a> </p> -->
 
-- 🚀 I’m currently working on [Taggy](www.taggy.com.mx)
+- 🚀 I’m currently working on (Side Projects) [Taggy](www.taggy.com.mx)
  
 - 🌱 I’m currently learning Nextjs v13, Docker, GitHub Actions, AWS
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Jai5UhTjmZow--Gn2cvTmLnFgpMFHzER2Stx6nF3Sjk/edit?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1Jai5UhTjmZow--Gn2cvTmLnFgpMFHzER2Stx6nF3Sjk/edit?usp=sharing)
 
-- ⚡ Fun fact I'm a big fan of Isaac Asimov and ❤️ Sci-Fi.
+- ⚡ Fun fact: I'm a big fan of Isaac Asimov and I ❤️ Sci-Fi.
 
 <br>
 
