@@ -68,11 +68,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Private and Public Routes and Validating Access with React Router v6](https://blog.bitsrc.io/setting-up-private-and-public-routes-and-validating-access-with-react-router-v6-33f8f0d6f149?source=rss-ecb38392f3e8------2)
 - [Building a Shopping Cart with Next.js and Zustand: State Management with TypeScript](https://javascript.plainenglish.io/building-a-shopping-cart-with-zustand-a-practical-guide-to-react-state-management-with-typescript-73ec10c66fb7?source=rss-ecb38392f3e8------2)
 - [How to set up a GraphQL Server and Client in Next.js step-by-step guide](https://javascript.plainenglish.io/how-to-set-up-a-graphql-server-and-client-in-next-js-step-by-step-guide-98a18088d7c6?source=rss-ecb38392f3e8------2)
 - [Build a Landing Page Using the Most Used Pseudo-classes and Pseudo-elements in CSS](https://blog.bitsrc.io/build-a-landing-page-using-the-most-used-pseudo-classes-and-pseudo-elements-in-css-e4a6bfd3b6b0?source=rss-ecb38392f3e8------2)
 - [How to Auth Login with GitHub and Google in a React and Backend App](https://blog.bitsrc.io/how-to-auth-login-with-github-and-google-in-a-react-and-backend-app-77423565b506?source=rss-ecb38392f3e8------2)
+- [How to hide your API keys and tokens in React to protect your application](https://javascript.plainenglish.io/keep-your-application-secure-discover-how-to-hide-your-api-keys-and-tokens-in-react-364bb5a45372?source=rss-ecb38392f3e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
