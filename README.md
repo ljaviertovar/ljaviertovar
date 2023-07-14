@@ -68,11 +68,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Boosting the Performance of a React Application: 7 Best Practices and Techniques](https://javascript.plainenglish.io/boosting-the-performance-of-a-react-application-7-best-practices-and-techniques-8023c4fbf512?source=rss-ecb38392f3e8------2)
 - [Understanding the difference between controlled and uncontrolled components in React](https://javascript.plainenglish.io/understanding-the-difference-between-controlled-and-uncontrolled-components-in-react-6a7c120088b3?source=rss-ecb38392f3e8------2)
 - [Setting Up Private and Public Routes and Validating Access with React Router v6](https://javascript.plainenglish.io/setting-up-private-and-public-routes-and-validating-access-with-react-router-v6-38b38c573e8e?source=rss-ecb38392f3e8------2)
 - [Building a Shopping Cart with Next.js and Zustand: State Management with TypeScript](https://javascript.plainenglish.io/building-a-shopping-cart-with-zustand-a-practical-guide-to-react-state-management-with-typescript-73ec10c66fb7?source=rss-ecb38392f3e8------2)
 - [How to set up a GraphQL Server and Client in Next.js step-by-step guide](https://javascript.plainenglish.io/how-to-set-up-a-graphql-server-and-client-in-next-js-step-by-step-guide-98a18088d7c6?source=rss-ecb38392f3e8------2)
-- [Build a Landing Page Using the Most Used Pseudo-classes and Pseudo-elements in CSS](https://blog.bitsrc.io/build-a-landing-page-using-the-most-used-pseudo-classes-and-pseudo-elements-in-css-e4a6bfd3b6b0?source=rss-ecb38392f3e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
