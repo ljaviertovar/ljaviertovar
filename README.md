@@ -68,11 +68,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Authentication in Next.js 14 with NextAuth.js, Shadcn/ui, react-hook-form, and Zod](https://javascript.plainenglish.io/implementing-authentication-in-next-js-14-with-nextauth-js-shadcn-ui-react-hook-form-and-zod-9de79a4190f6?source=rss-ecb38392f3e8------2)
 - [What is Testing in Frontend Web Development and Why Is It important?](https://javascript.plainenglish.io/what-is-testing-in-frontend-web-development-and-why-is-it-important-b3e9641f33c4?source=rss-ecb38392f3e8------2)
 - [Creating Multilingual React Apps with react-i18next: A Step-by-Step Guide](https://javascript.plainenglish.io/creating-multilingual-react-apps-with-react-i18next-a-step-by-step-guide-e1aa3c7f9ad0?source=rss-ecb38392f3e8------2)
 - [Boosting React App Performance with Lazy Loading and Suspense](https://javascript.plainenglish.io/boosting-react-app-performance-with-lazy-loading-and-suspense-aa85889b5bb?source=rss-ecb38392f3e8------2)
 - [A Comprehensive Guide to Higher Order Components &lpar;HOCs&rpar; in React](https://javascript.plainenglish.io/a-comprehensive-guide-to-higher-order-components-hocs-in-react-fdf47875dc1b?source=rss-ecb38392f3e8------2)
-- [Optimizing State Management in React Applications: From Small to Large-Scale](https://javascript.plainenglish.io/optimizing-state-management-in-react-applications-from-small-to-large-scale-aa413cc043e5?source=rss-ecb38392f3e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
