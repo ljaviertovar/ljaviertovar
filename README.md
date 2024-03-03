@@ -10,11 +10,14 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljaviertovar" alt="ljaviertovar" /></a> </p> -->
 
-- 🚀 I’m currently working on (Side Projects) [Taggy](www.taggy.com.mx)
+- 🚀 I’m currently working on (Side Projects):
+  
+  [Taggy](https://www.taggyai.com/) </br>
+  [Mealmate](https://www.meal-mate.app/)
  
-- 🌱 I’m currently learning Nextjs v13, Docker, GitHub Actions, AWS
+- 🌱 I’m currently learning OpenAI, Astro, GitHub Actions, AWS
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon]([https://medium.com/@ljaviertovar](https://hackernoon.com/u/ljaviertovar))
 
 - 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1Jai5UhTjmZow--Gn2cvTmLnFgpMFHzER2Stx6nF3Sjk/edit?usp=sharing)
 
