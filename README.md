@@ -17,7 +17,7 @@
  
 - 🌱 I’m currently learning OpenAI, Astro, GitHub Actions, AWS
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon]([https://medium.com/@ljaviertovar](https://hackernoon.com/u/ljaviertovar))
+- 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon](https://hackernoon.com/u/ljaviertovar)
 
 - 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1Jai5UhTjmZow--Gn2cvTmLnFgpMFHzER2Stx6nF3Sjk/edit?usp=sharing)
 
