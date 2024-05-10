@@ -15,7 +15,7 @@
   [Taggy](https://www.taggyai.com/) </br>
   [Mealmate](https://www.meal-mate.app/)
  
-- 🌱 I’m currently learning OpenAI, Astro, GitHub Actions, AWS
+- 🌱 I’m currently learning Python, OpenAI, GitHub Actions, AWS
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon](https://hackernoon.com/u/ljaviertovar)
 
