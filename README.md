@@ -10,16 +10,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljaviertovar" alt="ljaviertovar" /></a> </p> -->
 
-- 🚀 I’m currently working on (Side Projects):
+<!-- - 🚀 I’m currently working on (Side Projects):
   
   [Taggy](https://www.taggyai.com/) </br>
   [Mealmate](https://www.meal-mate.app/)
+  -->
  
 - 🌱 I’m currently learning Python, OpenAI, GitHub Actions, AWS
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon](https://hackernoon.com/u/ljaviertovar)
 
-- 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1Jai5UhTjmZow--Gn2cvTmLnFgpMFHzER2Stx6nF3Sjk/edit?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1H7ouWY_KmnzQSt1F_MY7TiC6dS9luUnD2cSDwSzCyW8/edit?usp=sharing)
 
 - ⚡ Fun fact: I'm a big fan of Isaac Asimov and I ❤️ Sci-Fi.
 
