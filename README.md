@@ -72,11 +72,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready Filtering System for Your E-commerce with Next.js and Wix Headless](https://javascript.plainenglish.io/building-a-production-ready-filtering-system-for-your-e-commerce-with-next-js-and-wix-headless-a211c2b5a8c8?source=rss-ecb38392f3e8------2)
 - [Building an App Logo Builder with Next.js, shadcn/ui, html2canvas-pro, and Lucide Icons](https://javascript.plainenglish.io/building-an-app-logo-builder-with-next-js-shadcn-ui-html2canvas-pro-and-lucide-icons-537debf528f7?source=rss-ecb38392f3e8------2)
 - [Implementing Password Strength Checks, Password Recovery, and Email Handling with Next.js](https://javascript.plainenglish.io/implementing-password-strength-checks-password-recovery-and-email-handling-with-next-js-562504f67e24?source=rss-ecb38392f3e8------2)
 - [Implementing Email Verification in Next.js 14 with NextAuth.js, Resend, and React Email](https://javascript.plainenglish.io/implementing-email-verification-in-next-js-14-with-nextauth-js-resend-and-react-email-1e2b607f1672?source=rss-ecb38392f3e8------2)
 - [Implementing Authentication in Next.js 14 with NextAuth.js, Shadcn/ui, react-hook-form, and Zod](https://javascript.plainenglish.io/implementing-authentication-in-next-js-14-with-nextauth-js-shadcn-ui-react-hook-form-and-zod-9de79a4190f6?source=rss-ecb38392f3e8------2)
-- [What is Testing in Frontend Web Development and Why Is It important?](https://javascript.plainenglish.io/what-is-testing-in-frontend-web-development-and-why-is-it-important-b3e9641f33c4?source=rss-ecb38392f3e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
