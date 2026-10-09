@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ljaviertovar.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ljaviertovar)
 
----
+<br>
 
 ## 👨‍💻 About Me
 
@@ -16,6 +16,8 @@ I'm a **Senior Full Stack Engineer** with 8+ years of experience building enterp
 I specialize in **React, Next.js, Node.js, TypeScript, and Headless Commerce**, with professional experience in VTEX IO and FastStore.
 
 My approach combines pragmatic software architecture, clean code, and a strong focus on solving real business problems.
+
+<br>
 
 ## 🛠️ Technologies & Tools
 
@@ -111,7 +113,7 @@ LLM APIs · AI Agents · OCR · Structured Outputs · Amazon Rekognition · Noti
 
 Shopify Hydrogen · Shopify Storefront API · AI-Assisted Development · Cloud Architecture
 
----
+<br>
 
 ## 🚀 Featured Projects
 
@@ -141,7 +143,7 @@ A personalized food recommendation demo with dietary preferences, allergy checks
 
 **[Explore All Projects →](https://www.ljaviertovar.dev/projects)**
 
----
+<br>
 
 ## ✍️ Technical Writing
 
@@ -150,7 +152,19 @@ I share practical insights on software architecture, React, Next.js, full-stack 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ljaviertovar)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-12100E?style=flat-square&logo=hackernoon)](https://hackernoon.com/u/ljaviertovar)
 
----
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljaviertovar&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljaviertovar&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+<br>
 
 ## 🤝 Let's Connect
 
