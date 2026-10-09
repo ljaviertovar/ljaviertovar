@@ -19,6 +19,36 @@ My approach combines pragmatic software architecture, clean code, and a strong f
 
 <br>
 
+## 🚀 Featured Projects
+
+### 🛒 [Listys — Smart Shopping SaaS](https://github.com/ljaviertovar/listys-web-app)
+
+A full-stack shopping application with reusable lists, shopping sessions, and AI-assisted receipt processing.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+[Live Demo](https://listys-web-app.vercel.app/) · [Source Code](https://github.com/ljaviertovar/listys-web-app)
+
+### 🛍️ [Headless E-commerce Filtering System](https://github.com/ljaviertovar/filtering-system)
+
+A dynamic product filtering and discovery experience powered by headless commerce APIs.
+
+`Next.js` `TypeScript` `Wix Headless` `TanStack Query`
+
+[Live Demo](https://filtering-system-gamma.vercel.app/) · [Source Code](https://github.com/ljaviertovar/filtering-system)
+
+### 🍽️ [Flavorwise — AI Dining Assistant](https://flavorwise-web-app.vercel.app/)
+
+A personalized food recommendation demo with dietary preferences, allergy checks, and explainable recommendations.
+
+`Next.js` `TypeScript` `Supabase` `OpenAI`
+
+[Live Demo](https://flavorwise-web-app.vercel.app/) · Private Repository
+
+**[Explore All Projects →](https://www.ljaviertovar.dev/projects)**
+
+<br>
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -112,36 +142,6 @@ LLM APIs · AI Agents · OCR · Structured Outputs · Amazon Rekognition · Noti
 ![Shopify](https://img.shields.io/badge/Shopify-0D1117?style=flat-square&logo=shopify)
 
 Shopify Hydrogen · Shopify Storefront API · AI-Assisted Development · Cloud Architecture
-
-<br>
-
-## 🚀 Featured Projects
-
-### 🛒 [Listys — Smart Shopping SaaS](https://github.com/ljaviertovar/listys-web-app)
-
-A full-stack shopping application with reusable lists, shopping sessions, and AI-assisted receipt processing.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
-
-[Live Demo](https://listys-web-app.vercel.app/) · [Source Code](https://github.com/ljaviertovar/listys-web-app)
-
-### 🛍️ [Headless E-commerce Filtering System](https://github.com/ljaviertovar/filtering-system)
-
-A dynamic product filtering and discovery experience powered by headless commerce APIs.
-
-`Next.js` `TypeScript` `Wix Headless` `TanStack Query`
-
-[Live Demo](https://filtering-system-gamma.vercel.app/) · [Source Code](https://github.com/ljaviertovar/filtering-system)
-
-### 🍽️ [Flavorwise — AI Dining Assistant](https://flavorwise-web-app.vercel.app/)
-
-A personalized food recommendation demo with dietary preferences, allergy checks, and explainable recommendations.
-
-`Next.js` `TypeScript` `Supabase` `OpenAI`
-
-[Live Demo](https://flavorwise-web-app.vercel.app/) · Private Repository
-
-**[Explore All Projects →](https://www.ljaviertovar.dev/projects)**
 
 <br>
 
