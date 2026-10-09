@@ -45,7 +45,7 @@ A personalized food recommendation demo with dietary preferences, allergy checks
 
 [Live Demo](https://flavorwise-web-app.vercel.app/) · Private Repository
 
-**[Explore All Projects →](https://www.ljaviertovar.dev/projects)**
+**<p align="center">[Explore All Projects →](https://www.ljaviertovar.dev/projects)</p>**
 
 <br>
 
