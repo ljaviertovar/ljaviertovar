@@ -1,117 +1,164 @@
-<h1 align="center">Hello world <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>, I am</h1>
+# Hi, I'm Luis Javier Tovar 👋
 
-![IMG_20230601_164349_537~2-1](https://github.com/ljaviertovar/ljaviertovar/assets/34925280/b32a7046-11f6-4be5-8019-cd13bf47b5f7)
+### Senior Full Stack Engineer | E-commerce Specialist
 
-<h4 align="center">✨ With a passion for creating user-friendly interfaces</h4>
+**Building scalable web applications, headless commerce solutions, and digital products.**
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ljaviertovar&label=Profile%20views&color=0e75b6&style=flat" alt="ljaviertovar" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ljaviertovar.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ljaviertovar)
 
-<br>
+---
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljaviertovar" alt="ljaviertovar" /></a> </p> -->
+## 👨‍💻 About Me
 
-<!-- - 🚀 I’m currently working on (Side Projects):
-  
-  [Taggy](https://www.taggyai.com/) </br>
-  [Mealmate](https://www.meal-mate.app/)
-  -->
- 
-- 🌱 I’m currently learning Python, OpenAI, GitHub Actions, AWS
+I'm a **Senior Full Stack Engineer** with 8+ years of experience building enterprise e-commerce platforms, scalable applications, and SaaS products.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ljaviertovar) and [HackerNoon](https://hackernoon.com/u/ljaviertovar)
+I specialize in **React, Next.js, Node.js, TypeScript, and Headless Commerce**, with professional experience in VTEX IO and FastStore.
 
-- 📄 Know about my experiences on my [Resume](https://docs.google.com/document/d/1H7ouWY_KmnzQSt1F_MY7TiC6dS9luUnD2cSDwSzCyW8/edit?usp=sharing)
+My approach combines pragmatic software architecture, clean code, and a strong focus on solving real business problems.
 
-- ⚡ Fun fact: I'm a big fan of Isaac Asimov and I ❤️ Sci-Fi.
+## 🛠️ Technologies & Tools
 
-<br>
+### Languages
 
-<h2 align="left">Languages and Tools</h2>
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3)
 
-![Nextjs](https://img.shields.io/badge/-Nextjs-010409?style=flat-square&logo=Next.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-010409?style=flat-square&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-010409?style=flat-square&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-010409?style=flat-square&logo=typescript)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-010409?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
-![GrapgQL](https://img.shields.io/badge/-GraphQL-010409?style=flat-square&logo=graphql&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-010409?style=flat-square&logo=tailwindcss)&nbsp;
-![Express](https://img.shields.io/badge/-Express-010409?style=flat-square&logo=express)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAi-010409?style=flat-square&logo=Openai)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-010409?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-010409?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-010409?style=flat-square&logo=sass&logoColor=white)&nbsp;
-![PupeteerJs](https://img.shields.io/badge/-PuppeteerJS-010409?style=flat-square&logo=puppeteer&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-010409?style=flat-square&logo=docker)&nbsp;
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-010409?style=flat-square&logo=Cloudinary)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-010409?style=flat-square&logo=PHP)&nbsp;
-![Git](https://img.shields.io/badge/-Git-010409?style=flat-square&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-010409?style=flat-square&logo=Amazonwebservices)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-010409?style=flat-square&logo=linux)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-010409?style=flat-square&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-010409?style=flat-square&logo=mysql)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-010409?style=flat-square&logo=postman)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-010409?style=flat-square&logo=redis)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-010409?style=flat-square&logo=redux)&nbsp;
-![Zustand](https://img.shields.io/badge/-Zustand-010409?style=flat-square&logo=Zustand)&nbsp;
+SQL · Bash
 
-<br>
+### Frontend & UI
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-0D1117?style=flat-square&logo=chakraui)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=flat-square&logo=reacthookform)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod)
+![i18next](https://img.shields.io/badge/i18next-0D1117?style=flat-square&logo=i18next)
+
+Zustand · React Context API · Redux Toolkit · Radix UI · Next-intl · Responsive Design
+
+### Backend, APIs & Architecture
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-0D1117?style=flat-square&logo=apollographql)
+![Jinja](https://img.shields.io/badge/Jinja2-0D1117?style=flat-square&logo=jinja)
+![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe)
+
+REST APIs · Webhooks · JWT · OAuth 2.0 · SQLAlchemy · Pydantic · Serverless Functions · Clean Architecture · API Integrations
+
+### E-commerce & Headless Commerce
+
+![VTEX](https://img.shields.io/badge/VTEX_IO-0D1117?style=flat-square&logo=vtex)
+![Wix](https://img.shields.io/badge/Wix_Headless-0D1117?style=flat-square&logo=wix)
+
+VTEX FastStore · Checkout Customization · Catalog & Order APIs · Headless Storefronts · ERP/PIM Integrations
+
+### Databases, Storage & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
+
+Supabase Auth · Row Level Security · Edge Functions · Object Storage
+
+### DevOps, Testing & Developer Tools
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-0D1117?style=flat-square&logo=puppeteer)
+![pytest](https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest)
+
+Docker Compose · Supertest · React Testing Library · CI/CD · WSL
+
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0D1117?style=flat-square&logo=googlegemini)
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=flat-square&logo=notion&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram)
+
+LLM APIs · AI Agents · OCR · Structured Outputs · Amazon Rekognition · Notion API · Telegram Bot API
+
+### 📖 Currently Exploring
+
+![Shopify](https://img.shields.io/badge/Shopify-0D1117?style=flat-square&logo=shopify)
+
+Shopify Hydrogen · Shopify Storefront API · AI-Assisted Development · Cloud Architecture
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [Listys — Smart Shopping SaaS](https://github.com/ljaviertovar/listys-web-app)
+
+A full-stack shopping application with reusable lists, shopping sessions, and AI-assisted receipt processing.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+[Live Demo](https://listys-web-app.vercel.app/) · [Source Code](https://github.com/ljaviertovar/listys-web-app)
+
+### 🛍️ [Headless E-commerce Filtering System](https://github.com/ljaviertovar/filtering-system)
+
+A dynamic product filtering and discovery experience powered by headless commerce APIs.
+
+`Next.js` `TypeScript` `Wix Headless` `TanStack Query`
+
+[Live Demo](https://filtering-system-gamma.vercel.app/) · [Source Code](https://github.com/ljaviertovar/filtering-system)
+
+### 🍽️ [Flavorwise — AI Dining Assistant](https://flavorwise-web-app.vercel.app/)
+
+A personalized food recommendation demo with dietary preferences, allergy checks, and explainable recommendations.
+
+`Next.js` `TypeScript` `Supabase` `OpenAI`
+
+[Live Demo](https://flavorwise-web-app.vercel.app/) · Private Repository
+
+**[Explore All Projects →](https://www.ljaviertovar.dev/projects)**
+
+---
+
+## ✍️ Technical Writing
+
+I share practical insights on software architecture, React, Next.js, full-stack development, and e-commerce engineering.
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ljaviertovar)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-12100E?style=flat-square&logo=hackernoon)](https://hackernoon.com/u/ljaviertovar)
+
+---
+
+## 🤝 Let's Connect
+
+Open to **Senior Full Stack / Tech Lead opportunities, open-source contributions, and product collaborations.**
+
+<p align="center">
 <a href="https://linkedin.com/in/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ljaviertovar" height="30" width="40" /></a>
 <a href="https://medium.com/@ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ljaviertovar" height="30" width="40" /></a>
 <a href="https://hackernoon.com/u/ljaviertovar" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/34925280/242477326-064432c7-7a4a-4a3e-a0be-784569dd44aa.jpeg" alt="@ljaviertovar" height="30" width="40" /></a>
-<a href="https://dev.to/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ljaviertovar" height="30" width="40" /></a>
 <a href="https://twitter.com/ljaviertovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ljaviertovar" height="30" width="40" /></a>
-
-
-
 </p>
-
-<br>
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Filtering System for Your E-commerce with Next.js and Wix Headless](https://javascript.plainenglish.io/building-a-production-ready-filtering-system-for-your-e-commerce-with-next-js-and-wix-headless-a211c2b5a8c8?source=rss-ecb38392f3e8------2)
-- [Building an App Logo Builder with Next.js, shadcn/ui, html2canvas-pro, and Lucide Icons](https://javascript.plainenglish.io/building-an-app-logo-builder-with-next-js-shadcn-ui-html2canvas-pro-and-lucide-icons-537debf528f7?source=rss-ecb38392f3e8------2)
-- [Implementing Password Strength Checks, Password Recovery, and Email Handling with Next.js](https://javascript.plainenglish.io/implementing-password-strength-checks-password-recovery-and-email-handling-with-next-js-562504f67e24?source=rss-ecb38392f3e8------2)
-- [Implementing Email Verification in Next.js 14 with NextAuth.js, Notify, and React Email](https://javascript.plainenglish.io/implementing-email-verification-in-next-js-14-with-nextauth-js-resend-and-react-email-1e2b607f1672?source=rss-ecb38392f3e8------2)
-- [Implementing Authentication in Next.js 14 with NextAuth.js, Shadcn/ui, react-hook-form, and Zod](https://javascript.plainenglish.io/implementing-authentication-in-next-js-14-with-nextauth-js-shadcn-ui-react-hook-form-and-zod-9de79a4190f6?source=rss-ecb38392f3e8------2)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-<h2 align="left">Stats</h2>
-
-<p>
-    <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljaviertovar&show_icons=true&locale=en&layout=compact" alt="ljaviertovar" /></span>
-    <span><img align="" src="https://github-readme-stats.vercel.app/api?username=ljaviertovar&show_icons=true&locale=en" alt="ljaviertovar" /></span>
-</p>
-
-
-<!-- <p>
-    <a href="https://www.linkedin.com/in/ljaviertovar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ljaviertovar/" /></a>
-    <a href="https://medium.com/@ljaviertovar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ljaviertovar" /></a>
-<!-- <a href="mailto:luisjavier.tovarp@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luisjavier.tovarp@gmail.com)" /></a> 
-</p> -->
-
-<!-- ### :new_moon_with_face: My latest posts
-<ul>
-  <li>
-    <a href="https://betterprogramming.pub/developing-reusable-and-customizable-modals-with-react-and-typescript-9f6217c76f07">
-      <b>Developing Reusable and Customizable Modals With React and TypeScript</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://blog.bitsrc.io/build-a-blog-with-react-and-markdown-files-30d969ce62d5">
-      <b>Build a Blog with React and Markdown files</b>
-    </a>
-  </li>
-   <li>
-    <a href="https://medium.com/better-programming/autocomplete-search-component-with-react-and-typescript-94fa0e21fa04">
-      <b>Autocomplete Search Component With React and TypeScript</b>
-    </a>
-  </li>
- </ul>  -->
-  
- 
